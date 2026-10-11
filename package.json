@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "clipper-lib": "^6.4.2",
     "three": "^0.186.1"

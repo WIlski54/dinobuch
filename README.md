@@ -124,6 +124,4 @@ node tools/audio-check.mjs           # 158 Klänge offline rendern und messen (P
 
 ## Lizenzen
 
-- Code des Buches: eigene Arbeit (Texte frei für den Unterricht).
-- three.js: MIT. clipper-lib: Boost Software License 1.0. esbuild, Playwright (nur Entwicklung): MIT bzw. Apache 2.0.
-- Erzählstimme: Thorsten-Voice-Datensatz und Piper-Modell „de_DE-thorsten-medium“, CC0 1.0; Erzeugung mit sherpa-onnx (Apache 2.0). Details in `assets/narration/LICENSE.txt`.
+Code und im Code erzeugte Kunst (Figuren, Kulissen, Klänge): **MIT** (`LICENSE`). Texte, Karten und Dokumentation: **CC BY-SA 4.0** (`LICENSE-CONTENT`). Bitte bei Weitergabe nennen: „Das große Dinosaurier-Popup-Buch“ von Stephan Wilski, https://github.com/WIlski54/dinobuch. Einzelheiten und Bestandteile von Dritten (three.js MIT, clipper-lib Boost-Lizenz, esbuild/Playwright nur zum Bauen, Erzählstimme Piper „de_DE-thorsten-medium“ CC0 über sherpa-onnx): `NOTICE.md` und `assets/narration/LICENSE.txt`.
